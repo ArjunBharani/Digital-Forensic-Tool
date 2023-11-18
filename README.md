@@ -77,3 +77,6 @@ Please download the given zip folder to your local system. Once you have mounted
 Make sure to run these commands in your terminal or command prompt to install the necessary packages.
 Once the necessary packages have been installed, run `app.py` file in the terminal using python. The command for that is, `python app.py` . 
 The application will be up and running in your local system in https://127.0.0.1 or whatever URL you see displayed in the terminal. Please click on that to reach the website.
+
+**TO NOTE:**
+When uploading a PDF file to summarize and check for phishing links, please ensure that it does not contain more than 5 links in the pdf ( including Embedded URLs ). If the number of links exceed 5, then the website's request will give a gateway timeout error as it will take more than 2 minutes.
