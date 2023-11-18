@@ -75,3 +75,5 @@ Please download the given zip folder to your local system. Once you have mounted
     - Installation Command: `pip install googlesearch-python`
 
 Make sure to run these commands in your terminal or command prompt to install the necessary packages.
+Once the necessary packages have been installed, run `app.py` file in the terminal using python. The command for that is, `python app.py` . 
+The application will be up and running in your local system in https://127.0.0.1 or whatever URL you see displayed in the terminal. Please click on that to reach the website.
